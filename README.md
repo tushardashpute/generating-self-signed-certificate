@@ -57,6 +57,8 @@ You can create Self-Signed Certificate using the following command with the priv
 
 
 **# cat server.crt** 
+
+
         -----BEGIN CERTIFICATE-----
         MIIDdDCCAlwCCQCyAVI5ZGXX1jANBgkqhkiG9w0BAQsFADB8MQswCQYDVQQGEwJV
         UzELMAkGA1UECAwCSUwxFTATBgNVBAcMDERlZmF1bHQgQ2l0eTERMA8GA1UECgwI
@@ -81,6 +83,8 @@ You can create Self-Signed Certificate using the following command with the priv
 
 
 **# cat server.key** 
+
+
         -----BEGIN RSA PRIVATE KEY-----
         MIIEpAIBAAKCAQEAslCS5L92wIKN51isIwnRqTiwQP1hPcCsyYBn0zjgVcwBfh1P
         AFaxJv4HJX3EpKugnmGXx9vQ4tdJr4AlhhY3rVMsLZPuCBvF051BEvZ3oXDxxRlf
